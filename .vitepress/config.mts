@@ -62,7 +62,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/Vuejs-Kenya/fundamentals' }
+      { icon: 'github', link: 'https://github.com/thecodingmontana/vuejs-kenya-docs' }
     ],
 
     search: {
